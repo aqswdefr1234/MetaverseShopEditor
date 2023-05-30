@@ -27,3 +27,5 @@ Room 별로 서로다른 baked 라이트맵을 로드합니다.
 이미지 파일또한 string값으로 변환하여 json파일에 포함시켰기 때문에 데이터 파일의 크기를 최소화 합니다.
 
 * 이 프로젝트는 사용자의 로컬폴더에 직접 접근합니다.
+
+https://unity-practice.tistory.com/25
